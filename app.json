@@ -1,5 +1,5 @@
 {
-  "name": "django-backend",
+  "name": "mate-django-backend",
   "description": "...",
   "image": "heroku/python",
   "repository": "https://github.com/arturro/heroku-django-backend",
